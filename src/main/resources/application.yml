@@ -1,0 +1,9 @@
+
+server:
+  port: 8877
+
+oss:
+  ak: xxxxxx
+  sk: xxxxxx
+  bucket: xxxxxx
+  domain: xxxxxx
